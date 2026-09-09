@@ -1,1 +1,2 @@
-# super-duper-octo-potato
+# module01_environment
+Цель моего проекта - научится работать с GitHub. 
