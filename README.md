@@ -1,3 +1,3 @@
 # ЛАБОРАТОРНАЯ РАБОТА 02.
 Цель моего проекта - научиться работать с GitHub. 
-Notebook находится в notebooks, данные в data, отчет в doks
+Notebook находится в notebooks, данные в data, отчет в docs
